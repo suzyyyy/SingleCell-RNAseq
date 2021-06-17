@@ -1,0 +1,12 @@
+	all_sum
+B	4
+CD8T	4
+CD4T	8
+unknown	0
+NK	4
+monocyte	0
+erythrocyte	7
+cDCs+pDCs	0
+proliferating_lympho	8
+plasma	10
+platelets	0

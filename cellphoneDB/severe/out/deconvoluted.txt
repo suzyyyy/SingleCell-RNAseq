@@ -1,0 +1,3 @@
+gene_name	uniprot	is_complex	protein_name	complex_name	id_cp_interaction	B	CD8T	CD4T	unknown	NK	monocyte	erythrocyte	cDCs+pDCs	proliferating_lympho	plasma	platelets
+CD27	P26842	False	CD27_HUMAN		CPI-SS0D4BF6CA3	-0.141	-0.18	0.309	-0.156	-0.328	-0.34	0.019	-0.319	0.063	1.619	-0.305
+CD70	P32970	False	CD70_HUMAN		CPI-SS0D4BF6CA3	0.191	0.242	-0.032	-0.052	0.048	-0.137	-0.11	-0.134	0.287	0.477	0.003
